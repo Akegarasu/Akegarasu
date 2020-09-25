@@ -3,6 +3,7 @@
 - 📫 联系方式: akegarasu.akiba@gmail.com
 
 ![Akegarasu's github stats](https://github-readme-stats.vercel.app/api?username=Akegarasu&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akegarasu)
 
 <!--
 **Akegarasu/Akegarasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
