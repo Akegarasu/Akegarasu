@@ -4,5 +4,4 @@
 - 📫 个人博客: [秋葉的blog](https://blog.qiuye.ink)
 - 👯 关于我：一个渣渣ctfer，web手。干什么什么不会
 
-![Akegarasu's github stats](https://github-readme-stats.vercel.app/api?username=Akegarasu&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akegarasu)
+<img src="https://github-readme-stats.vercel.app/api?username=Akegarasu&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akegarasu"/>
