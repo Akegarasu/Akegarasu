@@ -5,3 +5,4 @@
 - 👯 关于我：一个渣渣ctfer，web手。干什么什么不会
 
 <img src="https://github-readme-stats.vercel.app/api?username=Akegarasu&show_icons=true" />
+<img src="https://osu-sig.vercel.app/card?user=akegarasu_akiba&mode=std&blur=6&animation=true&mini=true" />
