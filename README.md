@@ -13,6 +13,7 @@
 
 
 ❄️ **技能**
+
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
@@ -22,5 +23,6 @@
 
 
 🎄 **其他**
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akegarasu&layout=compact" />
 <img src="https://osu-sig.vercel.app/card?user=akegarasu_akiba&mode=std&blur=6&animation=true&mini=true" />
